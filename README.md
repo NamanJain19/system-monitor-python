@@ -37,3 +37,6 @@ A GUI-based system monitoring tool that shows real-time CPU, RAM, and Disk usage
 
 ## ▶️ Run
 python gui_monitor.py
+
+## 📸 Screenshot
+![App Screenshot](screenshot.png)
